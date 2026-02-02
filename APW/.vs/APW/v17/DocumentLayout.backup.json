@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|e:\\repositories\\ufide\\progra avanzada web\\2026\\cuatri 1\\apw\\apw.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|e:\\repositories\\ufide\\progra avanzada web\\2026\\cuatri 1\\apw\\apw.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|e:\\repositories\\ufide\\progra avanzada web\\2026\\cuatri 1\\apw\\apw.web\\services\\apwserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\services\\apwserviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7F21B8-E4D9-4BD0-9EB1-1E7B8548B90E}|APW.Architecture\\APW.Architecture.csproj|e:\\repositories\\ufide\\progra avanzada web\\2026\\cuatri 1\\apw\\apw.architecture\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B7F21B8-E4D9-4BD0-9EB1-1E7B8548B90E}|APW.Architecture\\APW.Architecture.csproj|solutionrelative:apw.architecture\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7F21B8-E4D9-4BD0-9EB1-1E7B8548B90E}|APW.Architecture\\APW.Architecture.csproj|e:\\repositories\\ufide\\progra avanzada web\\2026\\cuatri 1\\apw\\apw.architecture\\extensions\\httpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B7F21B8-E4D9-4BD0-9EB1-1E7B8548B90E}|APW.Architecture\\APW.Architecture.csproj|solutionrelative:apw.architecture\\extensions\\httpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7F21B8-E4D9-4BD0-9EB1-1E7B8548B90E}|APW.Architecture\\APW.Architecture.csproj|e:\\repositories\\ufide\\progra avanzada web\\2026\\cuatri 1\\apw\\apw.architecture\\helpers\\restproviderhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B7F21B8-E4D9-4BD0-9EB1-1E7B8548B90E}|APW.Architecture\\APW.Architecture.csproj|solutionrelative:apw.architecture\\helpers\\restproviderhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7F21B8-E4D9-4BD0-9EB1-1E7B8548B90E}|APW.Architecture\\APW.Architecture.csproj|e:\\repositories\\ufide\\progra avanzada web\\2026\\cuatri 1\\apw\\apw.architecture\\providers\\restprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B7F21B8-E4D9-4BD0-9EB1-1E7B8548B90E}|APW.Architecture\\APW.Architecture.csproj|solutionrelative:apw.architecture\\providers\\restprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7F21B8-E4D9-4BD0-9EB1-1E7B8548B90E}|APW.Architecture\\APW.Architecture.csproj|e:\\repositories\\ufide\\progra avanzada web\\2026\\cuatri 1\\apw\\apw.architecture\\providers\\jsonprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B7F21B8-E4D9-4BD0-9EB1-1E7B8548B90E}|APW.Architecture\\APW.Architecture.csproj|solutionrelative:apw.architecture\\providers\\jsonprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|e:\\repositories\\ufide\\progra avanzada web\\2026\\cuatri 1\\apw\\apw.web\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77AE3C3-44E2-4B3F-A5EC-29665E8A1769}|APW.API\\APW.API\\APW.API.csproj|e:\\repositories\\ufide\\progra avanzada web\\2026\\cuatri 1\\apw\\apw.api\\apw.api\\apw.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A77AE3C3-44E2-4B3F-A5EC-29665E8A1769}|APW.API\\APW.API\\APW.API.csproj|solutionrelative:apw.api\\apw.api\\apw.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77AE3C3-44E2-4B3F-A5EC-29665E8A1769}|APW.API\\APW.API\\APW.API.csproj|e:\\repositories\\ufide\\progra avanzada web\\2026\\cuatri 1\\apw\\apw.api\\apw.api\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77AE3C3-44E2-4B3F-A5EC-29665E8A1769}|APW.API\\APW.API\\APW.API.csproj|solutionrelative:apw.api\\apw.api\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|e:\\repositories\\ufide\\progra avanzada web\\2026\\cuatri 1\\apw\\apw.web\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7F21B8-E4D9-4BD0-9EB1-1E7B8548B90E}|APW.Architecture\\APW.Architecture.csproj|e:\\repositories\\ufide\\progra avanzada web\\2026\\cuatri 1\\apw\\apw.architecture\\pawexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B7F21B8-E4D9-4BD0-9EB1-1E7B8548B90E}|APW.Architecture\\APW.Architecture.csproj|solutionrelative:apw.architecture\\pawexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B25D3E-93EF-45A6-984B-4C0F914E4DF3}|APW.Models\\APW.Models.csproj|e:\\repositories\\ufide\\progra avanzada web\\2026\\cuatri 1\\apw\\apw.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B25D3E-93EF-45A6-984B-4C0F914E4DF3}|APW.Models\\APW.Models.csproj|solutionrelative:apw.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 379,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RestProviderHelpers.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Architecture\\Helpers\\RestProviderHelpers.cs",
+              "RelativeDocumentMoniker": "APW.Architecture\\Helpers\\RestProviderHelpers.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Architecture\\Helpers\\RestProviderHelpers.cs*",
+              "RelativeToolTip": "APW.Architecture\\Helpers\\RestProviderHelpers.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBwAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T01:16:45.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Web\\Program.cs",
+              "RelativeDocumentMoniker": "APW.Web\\Program.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Web\\Program.cs",
+              "RelativeToolTip": "APW.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T00:38:35.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "APW.API",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.API\\APW.API\\APW.API.csproj",
+              "RelativeDocumentMoniker": "APW.API\\APW.API\\APW.API.csproj",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.API\\APW.API\\APW.API.csproj",
+              "RelativeToolTip": "APW.API\\APW.API\\APW.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-29T00:14:01.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APWServiceProvider.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Web\\Services\\APWServiceProvider.cs",
+              "RelativeDocumentMoniker": "APW.Web\\Services\\APWServiceProvider.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Web\\Services\\APWServiceProvider.cs",
+              "RelativeToolTip": "APW.Web\\Services\\APWServiceProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:56:48.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Web\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "APW.Web\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Web\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "APW.Web\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T02:54:25.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Architecture\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "APW.Architecture\\Extensions\\StringExtensions.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Architecture\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "APW.Architecture\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:21:42.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HttpClientExtensions.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Architecture\\Extensions\\HttpClientExtensions.cs",
+              "RelativeDocumentMoniker": "APW.Architecture\\Extensions\\HttpClientExtensions.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Architecture\\Extensions\\HttpClientExtensions.cs",
+              "RelativeToolTip": "APW.Architecture\\Extensions\\HttpClientExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:21:34.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestProvider.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Architecture\\Providers\\RestProvider.cs",
+              "RelativeDocumentMoniker": "APW.Architecture\\Providers\\RestProvider.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Architecture\\Providers\\RestProvider.cs*",
+              "RelativeToolTip": "APW.Architecture\\Providers\\RestProvider.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:20:54.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JsonProvider.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Architecture\\Providers\\JsonProvider.cs",
+              "RelativeDocumentMoniker": "APW.Architecture\\Providers\\JsonProvider.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Architecture\\Providers\\JsonProvider.cs",
+              "RelativeToolTip": "APW.Architecture\\Providers\\JsonProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:20:52.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PAWException.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Architecture\\PAWException.cs",
+              "RelativeDocumentMoniker": "APW.Architecture\\PAWException.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Architecture\\PAWException.cs",
+              "RelativeToolTip": "APW.Architecture\\PAWException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:20:15.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "APW.Web\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Web\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "APW.Web\\Controllers\\ProductController.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBgAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:17:29.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductApiController.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.API\\APW.API\\Controllers\\ProductApiController.cs",
+              "RelativeDocumentMoniker": "APW.API\\APW.API\\Controllers\\ProductApiController.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.API\\APW.API\\Controllers\\ProductApiController.cs",
+              "RelativeToolTip": "APW.API\\APW.API\\Controllers\\ProductApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:06:53.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Web\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "APW.Web\\Models\\ProductViewModel.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Web\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "APW.Web\\Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:00:50.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Models\\Product.cs",
+              "RelativeDocumentMoniker": "APW.Models\\Product.cs",
+              "ToolTip": "E:\\repositories\\UFide\\Progra Avanzada Web\\2026\\Cuatri 1\\APW\\APW.Models\\Product.cs",
+              "RelativeToolTip": "APW.Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T01:55:03.832Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 345,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

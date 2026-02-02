@@ -1,0 +1,71 @@
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\bin\Debug\net8.0\appsettings.Development.json
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\bin\Debug\net8.0\appsettings.json
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\bin\Debug\net8.0\APW.API.staticwebassets.endpoints.json
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\bin\Debug\net8.0\APW.API.exe
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\bin\Debug\net8.0\APW.API.deps.json
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\bin\Debug\net8.0\APW.API.runtimeconfig.json
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\bin\Debug\net8.0\APW.API.dll
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\bin\Debug\net8.0\APW.API.pdb
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.AssemblyInfoInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.AssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.MvcApplicationPartsAssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.MvcApplicationPartsAssemblyInfo.cache
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\obj\Debug\net8.0\scopedcss\bundle\APW.API.styles.css
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.csproj.Up2Date
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.dll
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\obj\Debug\net8.0\refint\APW.API.dll
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.pdb
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.genruntimeconfig.cache
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\obj\Debug\net8.0\ref\APW.API.dll
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\bin\Debug\net8.0\APW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.API\APW.API\bin\Debug\net8.0\APW.Models.pdb
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\bin\Debug\net8.0\appsettings.json
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\bin\Debug\net8.0\APW.API.staticwebassets.endpoints.json
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\bin\Debug\net8.0\APW.API.exe
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\bin\Debug\net8.0\APW.API.deps.json
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\bin\Debug\net8.0\APW.API.runtimeconfig.json
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\bin\Debug\net8.0\APW.API.dll
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\bin\Debug\net8.0\APW.API.pdb
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\bin\Debug\net8.0\APW.Models.dll
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\bin\Debug\net8.0\APW.Models.pdb
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.csproj.AssemblyReference.cache
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.AssemblyInfoInputs.cache
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.AssemblyInfo.cs
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.csproj.CoreCompileInputs.cache
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\scopedcss\bundle\APW.API.styles.css
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.csproj.Up2Date
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.dll
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\refint\APW.API.dll
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.pdb
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.genruntimeconfig.cache
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.API\APW.API\obj\Debug\net8.0\ref\APW.API.dll

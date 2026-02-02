@@ -1,0 +1,30 @@
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Architecture\bin\Debug\net8.0\APW.Architecture.deps.json
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Architecture\bin\Debug\net8.0\APW.Architecture.dll
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Architecture\bin\Debug\net8.0\APW.Architecture.pdb
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Architecture\bin\Debug\net8.0\APW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Architecture\bin\Debug\net8.0\APW.Models.pdb
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfoInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Architecture\obj\Debug\net8.0\APW.Arch.091626BC.Up2Date
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.dll
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Architecture\obj\Debug\net8.0\refint\APW.Architecture.dll
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.pdb
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Architecture\obj\Debug\net8.0\ref\APW.Architecture.dll
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Architecture\bin\Debug\net8.0\APW.Architecture.deps.json
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Architecture\bin\Debug\net8.0\APW.Architecture.dll
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Architecture\bin\Debug\net8.0\APW.Architecture.pdb
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Architecture\bin\Debug\net8.0\APW.Models.dll
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Architecture\bin\Debug\net8.0\APW.Models.pdb
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.csproj.AssemblyReference.cache
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfoInputs.cache
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfo.cs
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Architecture\obj\Debug\net8.0\APW.Arch.091626BC.Up2Date
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.dll
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Architecture\obj\Debug\net8.0\refint\APW.Architecture.dll
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.pdb
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Architecture\obj\Debug\net8.0\ref\APW.Architecture.dll

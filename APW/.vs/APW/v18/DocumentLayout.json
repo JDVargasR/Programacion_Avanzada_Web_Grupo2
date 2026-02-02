@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|c:\\users\\josed\\downloads\\proyectosvisual\\programacionavanzadaweb\\profe\\apw\\apw.web\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|c:\\users\\josed\\downloads\\proyectosvisual\\programacionavanzadaweb\\profe\\apw\\apw.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77AE3C3-44E2-4B3F-A5EC-29665E8A1769}|APW.API\\APW.API\\APW.API.csproj|c:\\users\\josed\\downloads\\proyectosvisual\\programacionavanzadaweb\\profe\\apw\\apw.api\\apw.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77AE3C3-44E2-4B3F-A5EC-29665E8A1769}|APW.API\\APW.API\\APW.API.csproj|solutionrelative:apw.api\\apw.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7F21B8-E4D9-4BD0-9EB1-1E7B8548B90E}|APW.Architecture\\APW.Architecture.csproj|c:\\users\\josed\\downloads\\proyectosvisual\\programacionavanzadaweb\\profe\\apw\\apw.architecture\\providers\\restprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B7F21B8-E4D9-4BD0-9EB1-1E7B8548B90E}|APW.Architecture\\APW.Architecture.csproj|solutionrelative:apw.architecture\\providers\\restprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77AE3C3-44E2-4B3F-A5EC-29665E8A1769}|APW.API\\APW.API\\APW.API.csproj|c:\\users\\josed\\downloads\\proyectosvisual\\programacionavanzadaweb\\profe\\apw\\apw.api\\apw.api\\apw.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A77AE3C3-44E2-4B3F-A5EC-29665E8A1769}|APW.API\\APW.API\\APW.API.csproj|solutionrelative:apw.api\\apw.api\\apw.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77AE3C3-44E2-4B3F-A5EC-29665E8A1769}|APW.API\\APW.API\\APW.API.csproj|c:\\users\\josed\\downloads\\proyectosvisual\\programacionavanzadaweb\\profe\\apw\\apw.api\\apw.api\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77AE3C3-44E2-4B3F-A5EC-29665E8A1769}|APW.API\\APW.API\\APW.API.csproj|solutionrelative:apw.api\\apw.api\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|c:\\users\\josed\\downloads\\proyectosvisual\\programacionavanzadaweb\\profe\\apw\\apw.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7F21B8-E4D9-4BD0-9EB1-1E7B8548B90E}|APW.Architecture\\APW.Architecture.csproj|c:\\users\\josed\\downloads\\proyectosvisual\\programacionavanzadaweb\\profe\\apw\\apw.architecture\\providers\\jsonprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B7F21B8-E4D9-4BD0-9EB1-1E7B8548B90E}|APW.Architecture\\APW.Architecture.csproj|solutionrelative:apw.architecture\\providers\\jsonprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|c:\\users\\josed\\downloads\\proyectosvisual\\programacionavanzadaweb\\profe\\apw\\apw.web\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7F21B8-E4D9-4BD0-9EB1-1E7B8548B90E}|APW.Architecture\\APW.Architecture.csproj|c:\\users\\josed\\downloads\\proyectosvisual\\programacionavanzadaweb\\profe\\apw\\apw.architecture\\pawexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B7F21B8-E4D9-4BD0-9EB1-1E7B8548B90E}|APW.Architecture\\APW.Architecture.csproj|solutionrelative:apw.architecture\\pawexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 379,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Web\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "APW.Web\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Web\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "APW.Web\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-29T02:44:49.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Web\\Program.cs",
+              "RelativeDocumentMoniker": "APW.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Web\\Program.cs",
+              "RelativeToolTip": "APW.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:44:49.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "APW.API.csproj",
+              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.API\\APW.API\\APW.API.csproj",
+              "RelativeDocumentMoniker": "APW.API\\APW.API\\APW.API.csproj",
+              "ToolTip": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.API\\APW.API\\APW.API.csproj",
+              "RelativeToolTip": "APW.API\\APW.API\\APW.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-29T02:44:49.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestProvider.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Architecture\\Providers\\RestProvider.cs",
+              "RelativeDocumentMoniker": "APW.Architecture\\Providers\\RestProvider.cs",
+              "ToolTip": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Architecture\\Providers\\RestProvider.cs",
+              "RelativeToolTip": "APW.Architecture\\Providers\\RestProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:44:49.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductApiController.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.API\\APW.API\\Controllers\\ProductApiController.cs",
+              "RelativeDocumentMoniker": "APW.API\\APW.API\\Controllers\\ProductApiController.cs",
+              "ToolTip": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.API\\APW.API\\Controllers\\ProductApiController.cs",
+              "RelativeToolTip": "APW.API\\APW.API\\Controllers\\ProductApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:44:49.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.API\\APW.API\\Program.cs",
+              "RelativeDocumentMoniker": "APW.API\\APW.API\\Program.cs",
+              "ToolTip": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.API\\APW.API\\Program.cs",
+              "RelativeToolTip": "APW.API\\APW.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:44:49.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JsonProvider.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Architecture\\Providers\\JsonProvider.cs",
+              "RelativeDocumentMoniker": "APW.Architecture\\Providers\\JsonProvider.cs",
+              "ToolTip": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Architecture\\Providers\\JsonProvider.cs",
+              "RelativeToolTip": "APW.Architecture\\Providers\\JsonProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:44:49.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PAWException.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Architecture\\PAWException.cs",
+              "RelativeDocumentMoniker": "APW.Architecture\\PAWException.cs",
+              "ToolTip": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Architecture\\PAWException.cs",
+              "RelativeToolTip": "APW.Architecture\\PAWException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:44:49.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "APW.Web\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Web\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "APW.Web\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:44:49.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Web\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "APW.Web\\Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Web\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "APW.Web\\Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T02:44:49.963Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

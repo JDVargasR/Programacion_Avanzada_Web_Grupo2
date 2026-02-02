@@ -1,0 +1,22 @@
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Models\bin\Debug\net8.0\APW.Models.deps.json
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Models\bin\Debug\net8.0\APW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Models\bin\Debug\net8.0\APW.Models.pdb
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Models\obj\Debug\net8.0\APW.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfoInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Models\obj\Debug\net8.0\APW.Models.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Models\obj\Debug\net8.0\APW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Models\obj\Debug\net8.0\refint\APW.Models.dll
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Models\obj\Debug\net8.0\APW.Models.pdb
+E:\repositories\UFide\Progra Avanzada Web\2026\Cuatri 1\APW\APW.Models\obj\Debug\net8.0\ref\APW.Models.dll
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Models\bin\Debug\net8.0\APW.Models.deps.json
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Models\bin\Debug\net8.0\APW.Models.dll
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Models\bin\Debug\net8.0\APW.Models.pdb
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Models\obj\Debug\net8.0\APW.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfoInputs.cache
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfo.cs
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Models\obj\Debug\net8.0\APW.Models.csproj.CoreCompileInputs.cache
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Models\obj\Debug\net8.0\APW.Models.dll
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Models\obj\Debug\net8.0\refint\APW.Models.dll
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Models\obj\Debug\net8.0\APW.Models.pdb
+C:\Users\josed\Downloads\ProyectosVisual\ProgramacionAvanzadaWeb\PROFE\APW\APW.Models\obj\Debug\net8.0\ref\APW.Models.dll
