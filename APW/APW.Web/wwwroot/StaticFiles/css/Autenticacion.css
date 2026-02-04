@@ -1,17 +1,17 @@
 ﻿:root {
-    /* ===== Paleta Marmol/Granito ===== */
-    --bg: #f3efe8; /* fondo general crema */
+    /* ===== Paleta Azul ===== */
+    --bg: #f3f7fb; /* fondo general azul muy suave */
     --card: #ffffff; /* tarjeta blanca */
-    --panel: #faf7f2; /* panel suave */
-    --muted: #6f6a61; /* texto secundario piedra */
-    --text: #2a2621; /* texto principal */
-    --accent: #c48a4a; /* dorado/cobre suave */
-    --accent2: #d8a76b; /* beige-dorado */
-    --border: rgba(60,50,40,.14);
-    --shadow: 0 18px 50px rgba(40,30,20,.18);
+    --panel: #f8fbff; /* panel suave */
+    --muted: #60666d; /* texto secundario gris oscuro */
+    --text: #0b0b0b; /* texto principal negro */
+    --accent: #1e5aff; /* azul principal */
+    --accent2: #63b3ff; /* azul secundario */
+    --border: rgba(40,60,90,.12);
+    --shadow: 0 18px 50px rgba(15,30,60,.14);
     --radius: 18px;
     --input-bg: rgba(0,0,0,.02);
-    --input-focus: rgba(196,138,74,.35);
+    --input-focus: rgba(30,90,255,.22);
 }
 
 * {
@@ -26,8 +26,8 @@ body {
     align-items: center;
     justify-content: center;
     font-family: "Segoe UI", Roboto, Arial, sans-serif;
-    /* Fondo tipo piedra claro */
-    background: radial-gradient(1200px 600px at 15% 20%, rgba(196,138,74,.18), transparent 60%), radial-gradient(1000px 500px at 85% 80%, rgba(216,167,107,.18), transparent 60%), linear-gradient(180deg, #f6f2ec, #efe8df);
+    /* Fondo suave azul */
+    background: radial-gradient(1200px 600px at 15% 20%, rgba(30,90,255,.06), transparent 60%), radial-gradient(1000px 500px at 85% 80%, rgba(99,179,255,.04), transparent 60%), linear-gradient(180deg, #f6fbff, #f0f6fb);
     color: var(--text);
 }
 
@@ -46,9 +46,8 @@ body {
 /* ===== Panel izquierdo (Logo) ===== */
 .auth__brand {
     padding: 46px 42px;
-    background: linear-gradient(135deg, rgba(196,138,74,.18), rgba(255,255,255,0) 55%), linear-gradient(0deg, rgba(0,0,0,.02), rgba(0,0,0,0)), var(--panel);
+    background: linear-gradient(135deg, rgba(30,90,255,.06), rgba(255,255,255,0) 55%), linear-gradient(0deg, rgba(0,0,0,.02), rgba(0,0,0,0)), var(--panel);
     position: relative;
-    /* Centrado real del bloque */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -60,11 +59,11 @@ body {
         content: "";
         position: absolute;
         inset: -2px;
-        background: radial-gradient(550px 220px at 20% 10%, rgba(196,138,74,.18), transparent 65%);
+        background: radial-gradient(550px 220px at 20% 10%, rgba(30,90,255,.06), transparent 65%);
         pointer-events: none;
     }
 
-    /* ===== Logo ===== */
+/* ===== Logo ===== */
 .brand__logo {
     position: relative;
     z-index: 2;
@@ -73,23 +72,21 @@ body {
 .brand__logo-img {
     width: 210px; /* más grande */
     height: auto;
-    filter: drop-shadow(0 10px 22px rgba(0,0,0,.18));
-    /* Animación tipo "carga" suave */
+    filter: drop-shadow(0 10px 22px rgba(0,0,0,.12));
     animation: logoIn .65s ease-out both;
 }
 
-/* Animación (carga/entrada del logo) */
 @keyframes logoIn {
     from {
         opacity: 0;
         transform: translateY(6px) scale(.98);
-        filter: blur(2px) drop-shadow(0 10px 22px rgba(0,0,0,.18));
+        filter: blur(2px) drop-shadow(0 10px 22px rgba(0,0,0,.12));
     }
 
     to {
         opacity: 1;
         transform: translateY(0) scale(1);
-        filter: blur(0) drop-shadow(0 10px 22px rgba(0,0,0,.18));
+        filter: blur(0) drop-shadow(0 10px 22px rgba(0,0,0,.12));
     }
 }
 
@@ -160,7 +157,7 @@ body {
 }
 
     .input:focus {
-        border-color: rgba(196,138,74,.70);
+        border-color: rgba(30,90,255,.70);
         box-shadow: 0 0 0 4px var(--input-focus);
         background: rgba(0,0,0,.015);
     }
@@ -182,7 +179,7 @@ body {
 
     .btn:hover {
         filter: brightness(1.03);
-        box-shadow: 0 14px 30px rgba(196,138,74,.28);
+        box-shadow: 0 14px 30px rgba(30,90,255,.22);
         transform: translateY(-1px);
     }
 
@@ -191,7 +188,7 @@ body {
         box-shadow: none;
     }
 
-    /* ===== Links ===== */
+/* ===== Links ===== */
 .link-row {
     margin-top: 14px;
     display: flex;
@@ -212,12 +209,12 @@ body {
             text-decoration: underline;
         }
 
-    /* ===== Error ===== */
+/* ===== Error ===== */
 .error {
     display: block;
     margin-top: 6px;
     font-size: 12.5px;
-    color: #b86b2a;
+    color: #c94b4b; /* rojo suave para errores */
 }
 
 @media (max-width: 900px) {

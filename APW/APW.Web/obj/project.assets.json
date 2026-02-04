@@ -501,23 +501,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sergi\\.nuget\\packages\\": {},
+    "C:\\Users\\Ileana\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\Users\\asain\\Documents\\TEMP DESARROLLO TAREAS UNIVERSITARIAS\\Progra Avanzada en Web\\proyecto\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\APW.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Ileana\\Documents\\GitHub\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\APW.Web.csproj",
       "projectName": "APW.Web",
-      "projectPath": "S:\\Users\\asain\\Documents\\TEMP DESARROLLO TAREAS UNIVERSITARIAS\\Progra Avanzada en Web\\proyecto\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\APW.Web.csproj",
-      "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-      "outputPath": "S:\\Users\\asain\\Documents\\TEMP DESARROLLO TAREAS UNIVERSITARIAS\\Progra Avanzada en Web\\proyecto\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\obj\\",
+      "projectPath": "C:\\Users\\Ileana\\Documents\\GitHub\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\APW.Web.csproj",
+      "packagesPath": "C:\\Users\\Ileana\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ileana\\Documents\\GitHub\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ileana\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -525,17 +525,18 @@
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "S:\\Users\\asain\\Documents\\TEMP DESARROLLO TAREAS UNIVERSITARIAS\\Progra Avanzada en Web\\proyecto\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.API\\APW.API\\APW.API.csproj": {
-              "projectPath": "S:\\Users\\asain\\Documents\\TEMP DESARROLLO TAREAS UNIVERSITARIAS\\Progra Avanzada en Web\\proyecto\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.API\\APW.API\\APW.API.csproj"
+            "C:\\Users\\Ileana\\Documents\\GitHub\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.API\\APW.API\\APW.API.csproj": {
+              "projectPath": "C:\\Users\\Ileana\\Documents\\GitHub\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.API\\APW.API\\APW.API.csproj"
             },
-            "S:\\Users\\asain\\Documents\\TEMP DESARROLLO TAREAS UNIVERSITARIAS\\Progra Avanzada en Web\\proyecto\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Architecture\\APW.Architecture.csproj": {
-              "projectPath": "S:\\Users\\asain\\Documents\\TEMP DESARROLLO TAREAS UNIVERSITARIAS\\Progra Avanzada en Web\\proyecto\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Architecture\\APW.Architecture.csproj"
+            "C:\\Users\\Ileana\\Documents\\GitHub\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Architecture\\APW.Architecture.csproj": {
+              "projectPath": "C:\\Users\\Ileana\\Documents\\GitHub\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Architecture\\APW.Architecture.csproj"
             }
           }
         }

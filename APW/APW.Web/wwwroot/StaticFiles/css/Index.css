@@ -1,12 +1,14 @@
 ﻿:root {
-    --bg1: #f7f3ee;
-    --bg2: #efe7dd;
-    --text: #241f1a;
-    --muted: #6f6a61;
-    --accent: #b68044;
-    --accent2: #d7b07a;
-    --border: rgba(70,60,50,.12);
-    --shadow: 0 18px 48px rgba(30,22,15,.10);
+    --bg1: #f7fbff; /* suave azul claro */
+    --bg2: #eef7ff;
+    --text: #0b0b0b; /* negro para textos */
+    --muted: #60666d; /* gris oscuro para secundarios */
+    --accent: #1e5aff; /* azul principal */
+    --accent2: #63b3ff; /* azul secundario claro */
+    --accent-rgb: 30,90,255;
+    --accent2-rgb: 99,179,255;
+    --border: rgba(40,60,90,.12);
+    --shadow: 0 18px 48px rgba(15,30,60,.08);
     --max: 1180px;
     --footerH: 150px;
 }
@@ -326,8 +328,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: radial-gradient(circle at 50% 50%, rgba(255,255,255,.90) 0 38%, transparent 39%), radial-gradient(circle at 50% 50%, rgba(30,90,255,.06), rgba(99,179,255,.06));
-    border: 2px solid rgba(30,90,255,.06);
+    background: radial-gradient(circle at 50% 50%, rgba(255,255,255,.78) 0 38%, transparent 39%), radial-gradient(circle at 50% 50%, rgba(var(--accent-rgb),.06), rgba(var(--accent2-rgb),.06));
+    border: 2px solid rgba(40,60,90,.10);
     box-shadow: var(--shadow);
 }
 
@@ -335,8 +337,8 @@ body {
     width: 160px;
     height: 160px;
     border-radius: 999px;
-    background: rgba(255,255,255,.96);
-    border: 1px solid rgba(40,60,90,.04);
+    background: rgba(255,255,255,.86);
+    border: 1px solid rgba(40,60,90,.08);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -357,7 +359,7 @@ body {
     transform: translateY(110%);
     opacity: 0;
     transition: transform .22s ease, opacity .22s ease;
-    background: linear-gradient(180deg, rgba(30,60,120,.95), rgba(15,30,60,.95));
+    background: linear-gradient(180deg, rgba(20,40,80,.92), rgba(12,20,40,.92));
     border-top: 1px solid rgba(255,255,255,.06);
     backdrop-filter: blur(8px);
     z-index: 70;
@@ -499,9 +501,9 @@ body {
     }
 
 .news-btn--primary {
-    background: linear-gradient(135deg, rgba(182,128,68,.92), rgba(215,176,122,.92));
-    color: #231c15;
-    border-color: rgba(182,128,68,.35);
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    color: #fff;
+    border-color: rgba(var(--accent-rgb), .18);
 }
 
 .news-btn--danger {

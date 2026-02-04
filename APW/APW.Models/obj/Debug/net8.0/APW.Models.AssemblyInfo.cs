@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APW.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e45e2f8a3f90d2b8985271c9c36465d233bde47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e877bb5f3a82d5adffcefc0bedbad4166ee5990")]
 [assembly: System.Reflection.AssemblyProductAttribute("APW.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APW.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

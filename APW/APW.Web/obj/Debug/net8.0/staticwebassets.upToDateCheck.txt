@@ -56,14 +56,14 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\StaticFiles\css\NuestraHistoria.css
 wwwroot\StaticFiles\css\Autenticacion.css
-wwwroot\StaticFiles\css\Index.css
 wwwroot\StaticFiles\css\jquery.mCustomScrollbar.css
 wwwroot\StaticFiles\css\material-design-iconic-font.min.css
 wwwroot\StaticFiles\css\material.min.css
 wwwroot\StaticFiles\css\normalize.css
 wwwroot\StaticFiles\css\normalize2.css
-wwwroot\StaticFiles\css\NuestraHistoria.css
+wwwroot\StaticFiles\css\Index.css
 wwwroot\StaticFiles\img\LogoGrupo2Noticias.png
 wwwroot\StaticFiles\js\Autenticacion.js
 wwwroot\StaticFiles\js\customScrollReveal.js
