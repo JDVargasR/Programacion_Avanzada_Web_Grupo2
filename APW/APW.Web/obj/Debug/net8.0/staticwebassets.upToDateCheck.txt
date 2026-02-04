@@ -1,6 +1,4 @@
-wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -58,3 +56,18 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\StaticFiles\css\Autenticacion.css
+wwwroot\StaticFiles\css\Index.css
+wwwroot\StaticFiles\css\jquery.mCustomScrollbar.css
+wwwroot\StaticFiles\css\material-design-iconic-font.min.css
+wwwroot\StaticFiles\css\material.min.css
+wwwroot\StaticFiles\css\normalize.css
+wwwroot\StaticFiles\css\normalize2.css
+wwwroot\StaticFiles\css\NuestraHistoria.css
+wwwroot\StaticFiles\img\LogoGrupo2Noticias.png
+wwwroot\StaticFiles\js\Autenticacion.js
+wwwroot\StaticFiles\js\customScrollReveal.js
+wwwroot\StaticFiles\js\Index.js
+wwwroot\StaticFiles\js\jquery-1.11.2.min.js
+wwwroot\StaticFiles\js\jquery.mCustomScrollbar.concat.min.js
+wwwroot\StaticFiles\js\scrollReveal.js

@@ -11,4 +11,25 @@
     <ProjectReference Include="..\APW.Architecture\APW.Architecture.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\StaticFiles\fonts\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\StaticFiles\css\Autenticacion.css" />
+    <None Include="wwwroot\StaticFiles\css\Index.css" />
+    <None Include="wwwroot\StaticFiles\css\jquery.mCustomScrollbar.css" />
+    <None Include="wwwroot\StaticFiles\css\material-design-iconic-font.min.css" />
+    <None Include="wwwroot\StaticFiles\css\material.min.css" />
+    <None Include="wwwroot\StaticFiles\css\normalize.css" />
+    <None Include="wwwroot\StaticFiles\css\normalize2.css" />
+    <None Include="wwwroot\StaticFiles\css\NuestraHistoria.css" />
+    <None Include="wwwroot\StaticFiles\js\Autenticacion.js" />
+    <None Include="wwwroot\StaticFiles\js\customScrollReveal.js" />
+    <None Include="wwwroot\StaticFiles\js\Index.js" />
+    <None Include="wwwroot\StaticFiles\js\jquery-1.11.2.min.js" />
+    <None Include="wwwroot\StaticFiles\js\jquery.mCustomScrollbar.concat.min.js" />
+    <None Include="wwwroot\StaticFiles\js\scrollReveal.js" />
+  </ItemGroup>
+
 </Project>

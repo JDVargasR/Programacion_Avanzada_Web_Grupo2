@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Architecture\\APW.Architecture.csproj": {}
+    "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Architecture\\APW.Architecture.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Architecture\\APW.Architecture.csproj": {
+    "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Architecture\\APW.Architecture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Architecture\\APW.Architecture.csproj",
+        "projectUniqueName": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Architecture\\APW.Architecture.csproj",
         "projectName": "APW.Architecture",
-        "projectPath": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Architecture\\APW.Architecture.csproj",
+        "projectPath": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Architecture\\APW.Architecture.csproj",
         "packagesPath": "C:\\Users\\josed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Architecture\\obj\\",
+        "outputPath": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Architecture\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Models\\APW.Models.csproj": {
-                "projectPath": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Models\\APW.Models.csproj"
+              "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj": {
+                "projectPath": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Models\\APW.Models.csproj": {
+    "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Models\\APW.Models.csproj",
+        "projectUniqueName": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj",
         "projectName": "APW.Models",
-        "projectPath": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Models\\APW.Models.csproj",
+        "projectPath": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj",
         "packagesPath": "C:\\Users\\josed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Models\\obj\\",
+        "outputPath": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -3,10 +3,6 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Path": "APW.API\\APW.API\\APW.API.csproj",
-        "Action": "Start"
-      },
-      {
         "Path": "APW.Web\\APW.Web.csproj",
         "Action": "Start"
       }

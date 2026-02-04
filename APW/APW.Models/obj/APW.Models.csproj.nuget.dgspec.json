@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Models\\APW.Models.csproj": {}
+    "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Models\\APW.Models.csproj": {
+    "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Models\\APW.Models.csproj",
+        "projectUniqueName": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj",
         "projectName": "APW.Models",
-        "projectPath": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Models\\APW.Models.csproj",
+        "projectPath": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj",
         "packagesPath": "C:\\Users\\josed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\PROFE\\APW\\APW.Models\\obj\\",
+        "outputPath": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

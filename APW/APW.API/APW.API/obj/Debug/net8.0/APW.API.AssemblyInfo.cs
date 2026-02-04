@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APW.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e618fc902947b607cb550b4e2e91f46e3aac56bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("APW.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APW.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
