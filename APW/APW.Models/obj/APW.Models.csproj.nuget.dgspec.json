@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ileana\\Documents\\GitHub\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj": {}
+    "S:\\Users\\asain\\Documents\\TEMP DESARROLLO TAREAS UNIVERSITARIAS\\Progra Avanzada en Web\\proyecto\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ileana\\Documents\\GitHub\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj": {
+    "S:\\Users\\asain\\Documents\\TEMP DESARROLLO TAREAS UNIVERSITARIAS\\Progra Avanzada en Web\\proyecto\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ileana\\Documents\\GitHub\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj",
+        "projectUniqueName": "S:\\Users\\asain\\Documents\\TEMP DESARROLLO TAREAS UNIVERSITARIAS\\Progra Avanzada en Web\\proyecto\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj",
         "projectName": "APW.Models",
-        "projectPath": "C:\\Users\\Ileana\\Documents\\GitHub\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj",
-        "packagesPath": "C:\\Users\\Ileana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ileana\\Documents\\GitHub\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\obj\\",
+        "projectPath": "S:\\Users\\asain\\Documents\\TEMP DESARROLLO TAREAS UNIVERSITARIAS\\Progra Avanzada en Web\\proyecto\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj",
+        "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
+        "outputPath": "S:\\Users\\asain\\Documents\\TEMP DESARROLLO TAREAS UNIVERSITARIAS\\Progra Avanzada en Web\\proyecto\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ileana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,7 +25,6 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

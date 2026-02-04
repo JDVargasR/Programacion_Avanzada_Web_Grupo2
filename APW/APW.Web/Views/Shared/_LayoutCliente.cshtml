@@ -20,7 +20,7 @@
     <header class="lp-header" id="top">
         <div class="lp-container lp-header__inner">
 
-            <a class="lp-brand" href="#" aria-label="Grupo 2 Noticias">
+            <a class="lp-brand" href="@Url.Action("Index", "Home")" aria-label="Grupo 2 Noticias">
                 <img src="@Url.Content("~/StaticFiles/img/LogoGrupo2Noticias.png")" alt="Grupo2Noticias" />
                 <div class="lp-brand__text">
                     <strong>Grupo 2 Noticias</strong>
@@ -34,6 +34,8 @@
             </label>
 
             <nav class="lp-nav" aria-label="Menú principal" id="mainNav">
+                <a class="lp-dd__btn lp-nav__link" href="@Url.Action("Noticias", "Home")">Noticias</a>
+
                 <div class="lp-dd">
                     <button class="lp-dd__btn" type="button">
                         Inicio <span class="lp-caret"></span>

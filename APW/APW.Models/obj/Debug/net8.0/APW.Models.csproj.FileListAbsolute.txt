@@ -44,3 +44,15 @@ C:\Users\Ileana\Documents\GitHub\Programacion_Avanzada_Web_Grupo2\APW\APW.Models
 C:\Users\Ileana\Documents\GitHub\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\refint\APW.Models.dll
 C:\Users\Ileana\Documents\GitHub\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\APW.Models.pdb
 C:\Users\Ileana\Documents\GitHub\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\ref\APW.Models.dll
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\bin\Debug\net8.0\APW.Models.deps.json
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\bin\Debug\net8.0\APW.Models.dll
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\bin\Debug\net8.0\APW.Models.pdb
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\APW.Models.GeneratedMSBuildEditorConfig.editorconfig
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfoInputs.cache
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfo.cs
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\APW.Models.csproj.CoreCompileInputs.cache
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\APW.Models.sourcelink.json
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\APW.Models.dll
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\refint\APW.Models.dll
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\APW.Models.pdb
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\ref\APW.Models.dll

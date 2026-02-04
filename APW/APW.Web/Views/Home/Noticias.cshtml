@@ -1,0 +1,111 @@
+@{
+    ViewBag.Title = "Noticias";
+}
+
+<main class="news-page">
+    <section class="news-hero">
+        <div class="lp-container news-hero__inner">
+            <div>
+                <div class="news-kicker">Dashboard</div>
+                <h1>Noticias</h1>
+                <p class="news-sub">Panel editorial con las últimas publicaciones, etiquetas y estados.</p>
+            </div>
+            <div class="news-hero__actions">
+                <button class="news-btn news-btn--primary" type="button">Nueva noticia</button>
+                <button class="news-btn" type="button">Editar</button>
+                <button class="news-btn news-btn--danger" type="button">Eliminar</button>
+            </div>
+        </div>
+    </section>
+
+    <section class="news-shell lp-container">
+        <aside class="news-sidebar" aria-label="Resumen de noticias">
+            <div class="news-sidebar__title">Resumen</div>
+            <div class="news-sideitem">
+                Publicadas
+                <span class="news-sideitem__value">18</span>
+            </div>
+            <div class="news-sideitem">
+                En revisión
+                <span class="news-sideitem__value">4</span>
+            </div>
+            <div class="news-sideitem">
+                Borradores
+                <span class="news-sideitem__value">7</span>
+            </div>
+            <div class="news-sideitem">
+                Destacadas
+                <span class="news-sideitem__value">5</span>
+            </div>
+        </aside>
+
+        <div class="news-main">
+            <div class="news-toolbar">
+                <div class="news-filters">
+                    <button class="news-pill is-active" type="button">Todas</button>
+                    <button class="news-pill" type="button">Política</button>
+                    <button class="news-pill" type="button">Economía</button>
+                    <button class="news-pill" type="button">Cultura</button>
+                    <button class="news-pill" type="button">Deportes</button>
+                </div>
+                <div class="news-search">
+                    <input type="text" placeholder="Buscar por título o tag" aria-label="Buscar noticias" />
+                </div>
+            </div>
+
+            <div class="news-grid">
+                <article class="news-card">
+                    <div class="news-card__meta">
+                        <span class="news-tag">Política</span>
+                        <span class="news-date">04 Feb 2026</span>
+                    </div>
+                    <h3>Acuerdo regional impulsa la agenda de infraestructura</h3>
+                    <p class="news-preview">Líderes de la región priorizan proyectos de movilidad y energía con foco en sostenibilidad y alianzas público-privadas.</p>
+                    <div class="news-card__actions">
+                        <button class="news-btn news-btn--ghost" type="button">Editar</button>
+                        <button class="news-btn news-btn--danger" type="button">Eliminar</button>
+                    </div>
+                </article>
+
+                <article class="news-card">
+                    <div class="news-card__meta">
+                        <span class="news-tag">Economía</span>
+                        <span class="news-date">03 Feb 2026</span>
+                    </div>
+                    <h3>Mercados reaccionan con optimismo al reporte trimestral</h3>
+                    <p class="news-preview">La bolsa cerró al alza tras la publicación de resultados positivos en sectores clave y señales de estabilidad.</p>
+                    <div class="news-card__actions">
+                        <button class="news-btn news-btn--ghost" type="button">Editar</button>
+                        <button class="news-btn news-btn--danger" type="button">Eliminar</button>
+                    </div>
+                </article>
+
+                <article class="news-card">
+                    <div class="news-card__meta">
+                        <span class="news-tag">Cultura</span>
+                        <span class="news-date">02 Feb 2026</span>
+                    </div>
+                    <h3>Festival de cine local bate récord de asistencia</h3>
+                    <p class="news-preview">La programación independiente y las actividades abiertas al público consolidaron el evento como referente regional.</p>
+                    <div class="news-card__actions">
+                        <button class="news-btn news-btn--ghost" type="button">Editar</button>
+                        <button class="news-btn news-btn--danger" type="button">Eliminar</button>
+                    </div>
+                </article>
+
+                <article class="news-card">
+                    <div class="news-card__meta">
+                        <span class="news-tag">Deportes</span>
+                        <span class="news-date">01 Feb 2026</span>
+                    </div>
+                    <h3>Nuevo técnico presenta plan de desarrollo juvenil</h3>
+                    <p class="news-preview">El club apuesta por formación y scouting regional con un enfoque integral en rendimiento y salud.</p>
+                    <div class="news-card__actions">
+                        <button class="news-btn news-btn--ghost" type="button">Editar</button>
+                        <button class="news-btn news-btn--danger" type="button">Eliminar</button>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </section>
+</main>

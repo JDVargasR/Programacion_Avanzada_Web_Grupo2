@@ -60,3 +60,19 @@ C:\Users\Ileana\Documents\GitHub\Programacion_Avanzada_Web_Grupo2\APW\APW.Archit
 C:\Users\Ileana\Documents\GitHub\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\refint\APW.Architecture.dll
 C:\Users\Ileana\Documents\GitHub\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.pdb
 C:\Users\Ileana\Documents\GitHub\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\ref\APW.Architecture.dll
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\bin\Debug\net8.0\APW.Architecture.deps.json
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\bin\Debug\net8.0\APW.Architecture.dll
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\bin\Debug\net8.0\APW.Architecture.pdb
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\bin\Debug\net8.0\APW.Models.dll
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\bin\Debug\net8.0\APW.Models.pdb
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.csproj.AssemblyReference.cache
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfoInputs.cache
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfo.cs
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.csproj.CoreCompileInputs.cache
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.sourcelink.json
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Arch.091626BC.Up2Date
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.dll
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\refint\APW.Architecture.dll
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.pdb
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\ref\APW.Architecture.dll

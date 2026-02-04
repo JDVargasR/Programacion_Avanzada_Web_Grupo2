@@ -147,3 +147,42 @@ C:\Users\Ileana\Documents\GitHub\Programacion_Avanzada_Web_Grupo2\APW\APW.API\AP
 C:\Users\Ileana\Documents\GitHub\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.pdb
 C:\Users\Ileana\Documents\GitHub\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.genruntimeconfig.cache
 C:\Users\Ileana\Documents\GitHub\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\ref\APW.API.dll
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\bin\Debug\net8.0\appsettings.Development.json
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\bin\Debug\net8.0\appsettings.json
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\bin\Debug\net8.0\APW.API.staticwebassets.endpoints.json
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\bin\Debug\net8.0\APW.API.exe
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\bin\Debug\net8.0\APW.API.deps.json
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\bin\Debug\net8.0\APW.API.runtimeconfig.json
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\bin\Debug\net8.0\APW.API.dll
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\bin\Debug\net8.0\APW.API.pdb
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\bin\Debug\net8.0\APW.Models.dll
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\bin\Debug\net8.0\APW.Models.pdb
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.csproj.AssemblyReference.cache
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.GeneratedMSBuildEditorConfig.editorconfig
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.AssemblyInfoInputs.cache
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.AssemblyInfo.cs
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.csproj.CoreCompileInputs.cache
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.MvcApplicationPartsAssemblyInfo.cs
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.MvcApplicationPartsAssemblyInfo.cache
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.sourcelink.json
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\scopedcss\bundle\APW.API.styles.css
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.build.json
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.development.json
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\swae.build.ex.cache
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.csproj.Up2Date
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.dll
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\refint\APW.API.dll
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.pdb
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\APW.API.genruntimeconfig.cache
+S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\ref\APW.API.dll

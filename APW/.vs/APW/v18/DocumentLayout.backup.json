@@ -1,34 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\",
+  "WorkspaceRootPath": "S:\\Users\\asain\\Documents\\TEMP DESARROLLO TAREAS UNIVERSITARIAS\\Progra Avanzada en Web\\proyecto\\Programacion_Avanzada_Web_Grupo2\\APW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|c:\\users\\josed\\downloads\\proyectosvisual\\programacionavanzadaweb\\programacion_avanzada_web_grupo2\\apw\\apw.web\\views\\shared\\_layoutcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|s:\\users\\asain\\documents\\temp desarrollo tareas universitarias\\progra avanzada en web\\proyecto\\programacion_avanzada_web_grupo2\\apw\\apw.web\\views\\shared\\_layoutcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\views\\shared\\_layoutcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|c:\\users\\josed\\downloads\\proyectosvisual\\programacionavanzadaweb\\programacion_avanzada_web_grupo2\\apw\\apw.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|c:\\users\\josed\\downloads\\proyectosvisual\\programacionavanzadaweb\\programacion_avanzada_web_grupo2\\apw\\apw.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|c:\\users\\josed\\downloads\\proyectosvisual\\programacionavanzadaweb\\programacion_avanzada_web_grupo2\\apw\\apw.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|c:\\users\\josed\\downloads\\proyectosvisual\\programacionavanzadaweb\\programacion_avanzada_web_grupo2\\apw\\apw.web\\views\\autenticacion\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\views\\autenticacion\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|c:\\users\\josed\\downloads\\proyectosvisual\\programacionavanzadaweb\\programacion_avanzada_web_grupo2\\apw\\apw.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|s:\\users\\asain\\documents\\temp desarrollo tareas universitarias\\progra avanzada en web\\proyecto\\programacion_avanzada_web_grupo2\\apw\\apw.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|c:\\users\\josed\\downloads\\proyectosvisual\\programacionavanzadaweb\\programacion_avanzada_web_grupo2\\apw\\apw.web\\views\\autenticacion\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\views\\autenticacion\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|s:\\users\\asain\\documents\\temp desarrollo tareas universitarias\\progra avanzada en web\\proyecto\\programacion_avanzada_web_grupo2\\apw\\apw.web\\views\\home\\noticias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E75DAD9-F8A8-4490-826D-1BFC8EE2213E}|APW.Web\\APW.Web.csproj|solutionrelative:apw.web\\views\\home\\noticias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 379,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,91 +34,42 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutCliente.cshtml",
+              "DocumentMoniker": "S:\\Users\\asain\\Documents\\TEMP DESARROLLO TAREAS UNIVERSITARIAS\\Progra Avanzada en Web\\proyecto\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\Views\\Shared\\_LayoutCliente.cshtml",
+              "RelativeDocumentMoniker": "APW.Web\\Views\\Shared\\_LayoutCliente.cshtml",
+              "ToolTip": "S:\\Users\\asain\\Documents\\TEMP DESARROLLO TAREAS UNIVERSITARIAS\\Progra Avanzada en Web\\proyecto\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\Views\\Shared\\_LayoutCliente.cshtml",
+              "RelativeToolTip": "APW.Web\\Views\\Shared\\_LayoutCliente.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T23:10:33.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\Program.cs",
-              "RelativeDocumentMoniker": "APW.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\Program.cs",
-              "RelativeToolTip": "APW.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T06:33:42.438Z",
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "S:\\Users\\asain\\Documents\\TEMP DESARROLLO TAREAS UNIVERSITARIAS\\Progra Avanzada en Web\\proyecto\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "APW.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "S:\\Users\\asain\\Documents\\TEMP DESARROLLO TAREAS UNIVERSITARIAS\\Progra Avanzada en Web\\proyecto\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "APW.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T23:10:30.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "APW.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "APW.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T06:33:15.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "APW.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "APW.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-04T06:28:01.947Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Registro.cshtml",
-              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\Views\\autenticacion\\Registro.cshtml",
-              "RelativeDocumentMoniker": "APW.Web\\Views\\autenticacion\\Registro.cshtml",
-              "ToolTip": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\Views\\autenticacion\\Registro.cshtml",
-              "RelativeToolTip": "APW.Web\\Views\\autenticacion\\Registro.cshtml",
+              "Title": "Noticias.cshtml",
+              "DocumentMoniker": "S:\\Users\\asain\\Documents\\TEMP DESARROLLO TAREAS UNIVERSITARIAS\\Progra Avanzada en Web\\proyecto\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\Views\\Home\\Noticias.cshtml",
+              "RelativeDocumentMoniker": "APW.Web\\Views\\Home\\Noticias.cshtml",
+              "ToolTip": "S:\\Users\\asain\\Documents\\TEMP DESARROLLO TAREAS UNIVERSITARIAS\\Progra Avanzada en Web\\proyecto\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\Views\\Home\\Noticias.cshtml",
+              "RelativeToolTip": "APW.Web\\Views\\Home\\Noticias.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-04T06:27:01.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "APW.Web\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "APW.Web\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-04T06:07:08.328Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_LayoutCliente.cshtml",
-              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\Views\\Shared\\_LayoutCliente.cshtml",
-              "RelativeDocumentMoniker": "APW.Web\\Views\\Shared\\_LayoutCliente.cshtml",
-              "ToolTip": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\Views\\Shared\\_LayoutCliente.cshtml",
-              "RelativeToolTip": "APW.Web\\Views\\Shared\\_LayoutCliente.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-04T06:05:30.201Z",
+              "WhenOpened": "2026-02-04T23:10:15.148Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\Views\\autenticacion\\Login.cshtml",
-              "RelativeDocumentMoniker": "APW.Web\\Views\\autenticacion\\Login.cshtml",
-              "ToolTip": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Web\\Views\\autenticacion\\Login.cshtml",
-              "RelativeToolTip": "APW.Web\\Views\\autenticacion\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-04T05:55:30.342Z"
             }
           ]
         },
