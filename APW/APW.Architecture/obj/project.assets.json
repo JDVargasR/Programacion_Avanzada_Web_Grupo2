@@ -27,23 +27,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\josed\\.nuget\\packages\\": {},
+    "C:\\Users\\Ileana\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Architecture\\APW.Architecture.csproj",
+      "projectUniqueName": "C:\\Users\\Ileana\\Documents\\GitHub\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Architecture\\APW.Architecture.csproj",
       "projectName": "APW.Architecture",
-      "projectPath": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Architecture\\APW.Architecture.csproj",
-      "packagesPath": "C:\\Users\\josed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Architecture\\obj\\",
+      "projectPath": "C:\\Users\\Ileana\\Documents\\GitHub\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Architecture\\APW.Architecture.csproj",
+      "packagesPath": "C:\\Users\\Ileana\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ileana\\Documents\\GitHub\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Architecture\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\josed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ileana\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -52,15 +52,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj": {
-              "projectPath": "C:\\Users\\josed\\Downloads\\ProyectosVisual\\ProgramacionAvanzadaWeb\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj"
+            "C:\\Users\\Ileana\\Documents\\GitHub\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj": {
+              "projectPath": "C:\\Users\\Ileana\\Documents\\GitHub\\Programacion_Avanzada_Web_Grupo2\\APW\\APW.Models\\APW.Models.csproj"
             }
           }
         }

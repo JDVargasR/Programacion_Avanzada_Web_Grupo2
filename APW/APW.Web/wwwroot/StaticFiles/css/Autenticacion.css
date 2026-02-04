@@ -64,7 +64,7 @@ body {
         pointer-events: none;
     }
 
-/* ===== Logo ===== */
+    /* ===== Logo ===== */
 .brand__logo {
     position: relative;
     z-index: 2;
@@ -191,7 +191,7 @@ body {
         box-shadow: none;
     }
 
-/* ===== Links ===== */
+    /* ===== Links ===== */
 .link-row {
     margin-top: 14px;
     display: flex;
@@ -212,7 +212,7 @@ body {
             text-decoration: underline;
         }
 
-/* ===== Error ===== */
+    /* ===== Error ===== */
 .error {
     display: block;
     margin-top: 6px;
