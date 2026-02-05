@@ -76,3 +76,21 @@ S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada e
 S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\refint\APW.Architecture.dll
 S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.pdb
 S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\ref\APW.Architecture.dll
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\bin\Debug\net8.0\APW.Architecture.deps.json
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\bin\Debug\net8.0\APW.Architecture.runtimeconfig.json
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\bin\Debug\net8.0\APW.Architecture.dll
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\bin\Debug\net8.0\APW.Architecture.pdb
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\bin\Debug\net8.0\APW.Models.dll
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\bin\Debug\net8.0\APW.Models.pdb
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.csproj.AssemblyReference.cache
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfoInputs.cache
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfo.cs
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.csproj.CoreCompileInputs.cache
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.sourcelink.json
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Arch.091626BC.Up2Date
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.dll
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\refint\APW.Architecture.dll
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.pdb
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.genruntimeconfig.cache
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Architecture\obj\Debug\net8.0\ref\APW.Architecture.dll

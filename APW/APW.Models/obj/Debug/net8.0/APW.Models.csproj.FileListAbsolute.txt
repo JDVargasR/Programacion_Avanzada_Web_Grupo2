@@ -56,3 +56,18 @@ S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada e
 S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\refint\APW.Models.dll
 S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\APW.Models.pdb
 S:\Users\asain\Documents\TEMP DESARROLLO TAREAS UNIVERSITARIAS\Progra Avanzada en Web\proyecto\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\ref\APW.Models.dll
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\bin\Debug\net8.0\APW.Models.deps.json
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\bin\Debug\net8.0\APW.Models.runtimeconfig.json
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\bin\Debug\net8.0\APW.Models.dll
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\bin\Debug\net8.0\APW.Models.pdb
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\APW.Models.csproj.AssemblyReference.cache
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\APW.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfoInputs.cache
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfo.cs
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\APW.Models.csproj.CoreCompileInputs.cache
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\APW.Models.sourcelink.json
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\APW.Models.dll
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\refint\APW.Models.dll
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\APW.Models.pdb
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\APW.Models.genruntimeconfig.cache
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.Models\obj\Debug\net8.0\ref\APW.Models.dll

@@ -35,3 +35,6 @@ C:\Users\Ileana\Documents\GitHub\Programacion_Avanzada_Web_Grupo2\APW\APW.API\AP
 C:\Users\Ileana\Documents\GitHub\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Ileana\Documents\GitHub\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Ileana\Documents\GitHub\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\GitHub\RepoM\Programacion_Avanzada_Web_Grupo2\APW\APW.API\APW.API\obj\Debug\net8.0\staticwebassets.build.json
