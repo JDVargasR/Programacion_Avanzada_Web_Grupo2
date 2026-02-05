@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "edu.univ.ingest.v1",
+  "exportedAt": "2026-01-22T20:15:00Z",
+
+  "source": {
+    "id": "este indica la fuente de donde viene el contenido, por ejemplo un ID unico de un autor, que eventualmente puede ser usado para agrupar multiples articulos normalizados haciendo una referencia 1-a-muchos",
+    "name": "Example News",
+    "type": "api",
+    "url": "https://example.com/feed-or-api",
+    "requiresSecret": false
+  },
+
+  "normalized": {
+    "id": "identidad unica del contenido en el sistema de normalizacion",
+    "externalId": "este identifica el contenido en la fuente original, por ejemplo un ID unico del articulo en la fuente",
+    "title": "Título del contenido",
+    "content": "Contenido en texto plano",
+    "summary": "Resumen opcional",
+    "publishedAt": "2026-01-22T18:00:00Z",
+    "url": "https://example.com/article/abc123",
+    "author": null,
+    "language": "es",
+
+    "category": {
+      "primary": "Tecnología",
+      "secondary": ["IA"]
+    }
+  },
+
+
+  "raw": {
+    "format": "json",
+    "data": {
+      "original": "..."
+    }
+  }
+}
