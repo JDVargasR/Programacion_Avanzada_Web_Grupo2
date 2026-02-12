@@ -15,8 +15,8 @@
     <!-- SweetAlert2 -->
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
-    <!-- Tu JS -->
-    <script src="@Url.Content("~/StaticFiles/js/Autenticacion.js")"></script>
+    <!-- Tu JS (DESACTIVADO por ahora para que NO intercepte el submit y mande a /api/...) -->
+    @* <script src="@Url.Content("~/StaticFiles/js/Autenticacion.js")"></script> *@
 
     @RenderSection("scripts", required: false)
 </body>

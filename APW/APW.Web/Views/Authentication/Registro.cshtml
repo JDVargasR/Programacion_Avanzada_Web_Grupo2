@@ -1,6 +1,6 @@
 ﻿@{
     ViewBag.Title = "Registro - Grupo 2 Noticias";
-    Layout = "~/Views/Shared/_LayoutAutenticacion.cshtml";
+    Layout = "~/Views/Shared/_LayoutAuthentication.cshtml";
 }
 
 @if (ViewBag.Mensaje != null)
@@ -22,8 +22,7 @@
     </div>
 
     <div class="auth__panel">
-        <!-- SOLO ESTÉTICO: acción "#" -->
-        <form class="form" method="post" action="#">
+        <form class="form" method="post" action="@Url.Action("Registro","Authentication")">
             <div class="form__top">
                 <h1>Crear cuenta</h1>
                 <p>Ingresá tus datos para registrarte en Grupo 2 Noticias.</p>
@@ -33,7 +32,12 @@
                 <label>Nombre</label>
                 <div class="field__wrap">
                     <i class='bx bx-user field__icon'></i>
-                    <input class="input" type="text" placeholder="Su nombre" autocomplete="name" />
+                    <input class="input"
+                           name="nombre"
+                           type="text"
+                           placeholder="Su nombre"
+                           autocomplete="name"
+                           required />
                 </div>
                 <span class="error" style="display:none;">Mensaje de error</span>
             </div>
@@ -42,7 +46,12 @@
                 <label>Correo</label>
                 <div class="field__wrap">
                     <i class='bx bx-envelope field__icon'></i>
-                    <input class="input" type="email" placeholder="Correo@Email.com" autocomplete="email" />
+                    <input class="input"
+                           name="correo"
+                           type="email"
+                           placeholder="Correo@Email.com"
+                           autocomplete="email"
+                           required />
                 </div>
                 <span class="error" style="display:none;">Mensaje de error</span>
             </div>
@@ -51,16 +60,21 @@
                 <label>Contraseña</label>
                 <div class="field__wrap">
                     <i class='bx bx-lock-alt field__icon'></i>
-                    <input class="input" type="password" placeholder="••••••••" autocomplete="new-password" />
+                    <input class="input"
+                           name="contrasena"
+                           type="password"
+                           placeholder="••••••••"
+                           autocomplete="new-password"
+                           required />
                 </div>
                 <span class="error" style="display:none;">Mensaje de error</span>
             </div>
 
-            <button class="btn" type="button">Registrarme</button>
+            <button class="btn" type="submit">Registrarme</button>
 
             <div class="link-row">
                 <span>¿Ya tenés cuenta?</span>
-                <a href="#">Iniciar sesión</a>
+                <a href="@Url.Action("Login", "Authentication")">Iniciar sesión</a>
             </div>
         </form>
     </div>

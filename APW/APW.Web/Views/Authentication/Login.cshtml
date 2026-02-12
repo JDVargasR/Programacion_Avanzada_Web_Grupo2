@@ -1,6 +1,6 @@
 ﻿@{
     ViewBag.Title = "Login - Grupo 2 Noticias";
-    Layout = "~/Views/Shared/_LayoutAutenticacion.cshtml";
+    Layout = "~/Views/Shared/_LayoutAuthentication.cshtml";
 }
 
 @if (ViewBag.Mensaje != null)
@@ -22,8 +22,7 @@
     </div>
 
     <div class="auth__panel">
-        <!-- SOLO ESTÉTICO: acción "#" para que no requiera controlador -->
-        <form class="form" method="post" action="#">
+        <form class="form" method="post" action="@Url.Action("Login","Authentication")">
             <div class="form__top">
                 <h1>Iniciar sesión</h1>
                 <p>Ingresá con tu correo y contraseña para acceder a Grupo 2 Noticias.</p>
@@ -33,7 +32,12 @@
                 <label>Correo</label>
                 <div class="field__wrap">
                     <i class='bx bx-envelope field__icon'></i>
-                    <input class="input" type="email" placeholder="Correo@Email.com" autocomplete="email" />
+                    <input class="input"
+                           name="correo"
+                           type="email"
+                           placeholder="Correo@Email.com"
+                           autocomplete="email"
+                           required />
                 </div>
                 <span class="error" style="display:none;">Mensaje de error</span>
             </div>
@@ -42,17 +46,21 @@
                 <label>Contraseña</label>
                 <div class="field__wrap">
                     <i class='bx bx-lock-alt field__icon'></i>
-                    <input class="input" type="password" placeholder="••••••••" autocomplete="current-password" />
+                    <input class="input"
+                           name="contrasena"
+                           type="password"
+                           placeholder="••••••••"
+                           autocomplete="current-password"
+                           required />
                 </div>
                 <span class="error" style="display:none;">Mensaje de error</span>
             </div>
 
-            <button class="btn" type="button">Entrar</button>
+            <button class="btn" type="submit">Entrar</button>
 
             <div class="link-row">
                 <span>¿No tenés cuenta?</span>
-                <!-- LINK ESTÉTICO (si querés que navegue real, cambiá a Url.Action) -->
-                <a href="#">Crear cuenta</a>
+                <a href="@Url.Action("Registro", "Authentication")">Crear cuenta</a>
             </div>
         </form>
     </div>

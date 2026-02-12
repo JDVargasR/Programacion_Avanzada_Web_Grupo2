@@ -756,6 +756,7 @@
       },
       "APW.API/1.0.0": {
         "dependencies": {
+          "APW.Data": "1.0.0",
           "APW.Models": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.1",
           "Swashbuckle.AspNetCore": "6.6.2"
@@ -774,6 +775,17 @@
         },
         "runtime": {
           "APW.Architecture.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "APW.Data/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.1"
+        },
+        "runtime": {
+          "APW.Data.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1140,6 +1152,11 @@
       "sha512": ""
     },
     "APW.Architecture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "APW.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
