@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\APW.API\APW.API\APW.API.csproj" />
     <ProjectReference Include="..\APW.Architecture\APW.Architecture.csproj" />
   </ItemGroup>
 

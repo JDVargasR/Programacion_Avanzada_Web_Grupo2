@@ -1,6 +1,11 @@
 ﻿@{
     ViewBag.Title = "Login - Grupo 2 Noticias";
     Layout = "~/Views/Shared/_LayoutAuthentication.cshtml";
+
+    if (TempData["OK"] != null)
+    {
+        ViewBag.OK = TempData["OK"];
+    }
 }
 
 @if (ViewBag.Mensaje != null)
