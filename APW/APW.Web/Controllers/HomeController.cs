@@ -15,6 +15,7 @@ namespace APW.Web.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.NombreUsuario = HttpContext.Session.GetString("Nombre") ?? "lector";
             return View();
         }
 
