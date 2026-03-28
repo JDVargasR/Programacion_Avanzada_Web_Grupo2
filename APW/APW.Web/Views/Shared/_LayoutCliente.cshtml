@@ -35,41 +35,6 @@
 
             <nav class="lp-nav" aria-label="Menú principal" id="mainNav">
                 <a class="lp-dd__btn lp-nav__link" href="@Url.Action("Noticias", "Home")">Noticias</a>
-
-                <div class="lp-dd">
-                    <button class="lp-dd__btn" type="button">
-                        Inicio <span class="lp-caret"></span>
-                    </button>
-                    <div class="lp-dd__menu">
-                        <a href="#" class="lp-dd__item">Política</a>
-                        <a href="#" class="lp-dd__item">Economía</a>
-                        <a href="#" class="lp-dd__item">Deportes</a>
-                        <a href="#" class="lp-dd__item">Cultura</a>
-                        <a href="#" class="lp-dd__item">Opinión</a>
-                    </div>
-                </div>
-
-                <div class="lp-dd">
-                    <button class="lp-dd__btn" type="button">
-                        Servicios <span class="lp-caret"></span>
-                    </button>
-                    <div class="lp-dd__menu">
-                        <a href="#" class="lp-dd__item">Suscripciones</a>
-                        <a href="#" class="lp-dd__item">Contactos</a>
-                        <a href="#" class="lp-dd__item">Anuncios</a>
-                    </div>
-                </div>
-
-                <div class="lp-dd">
-                    <button class="lp-dd__btn" type="button">
-                        Otros <span class="lp-caret"></span>
-                    </button>
-                    <div class="lp-dd__menu">
-                        <a href="#" class="lp-dd__item">Buscar</a>
-                        <a href="#" class="lp-dd__item">Archivo</a>
-                        <a href="#" class="lp-dd__item">Contacto</a>
-                    </div>
-                </div>
             </nav>
 
             <div class="lp-user">
@@ -79,7 +44,7 @@
                     </button>
                     <div class="lp-user__menu">
                         <a class="lp-user__item" href="#">Mi cuenta / Ver perfil</a>
-                        <a class="lp-user__item danger" href="#">Cerrar sesión</a>
+                        <a class="lp-user__item danger" href="@Url.Action("Logout", "Authentication")">Cerrar sesión</a>
                     </div>
                 </div>
             </div>

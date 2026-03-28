@@ -15,6 +15,7 @@ namespace APW.Web.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.NombreUsuario = HttpContext.Session.GetString("Nombre") ?? "lector";
             return View();
         }
 
@@ -32,16 +33,6 @@ namespace APW.Web.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
-
-        public IActionResult Login()
-        {
-            return View("~/Views/autenticacion/Login.cshtml");
-        }
-
-        public IActionResult Registro()
-        {
-            return View("~/Views/autenticacion/Registro.cshtml");
         }
     }
 }

@@ -133,6 +133,8 @@ body {
 .lp-nav {
     display: flex;
     align-items: center;
+    justify-content: center;
+    flex: 1;
     gap: 10px;
 }
 
@@ -154,8 +156,8 @@ body {
 }
 
     .lp-dd__btn:hover {
-        background: rgba(182,128,68,.10);
-        border-color: rgba(182,128,68,.18);
+        background: rgba(var(--accent2-rgb), .16);
+        border-color: rgba(var(--accent2-rgb), .35);
     }
 
 .lp-caret {
@@ -202,6 +204,10 @@ body {
 /* DropDown */
 .lp-user__dd {
     position: relative;
+}
+
+.lp-user {
+    margin-left: auto;
 }
 
 .lp-user__btn {
