@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APW.Architecture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e22e330cdb8a80a09177109b13d7125dd061f2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63c9c15668377d8d16e66f996b11d465b37c75c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("APW.Architecture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APW.Architecture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
