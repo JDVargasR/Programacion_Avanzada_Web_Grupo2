@@ -102,19 +102,6 @@
         </aside>
 
         <div class="news-main">
-            <div class="news-toolbar">
-                <div class="news-filters">
-                    <button class="news-pill is-active" type="button">Todas</button>
-                    <button class="news-pill" type="button">Política</button>
-                    <button class="news-pill" type="button">Economía</button>
-                    <button class="news-pill" type="button">Cultura</button>
-                    <button class="news-pill" type="button">Deportes</button>
-                </div>
-                <div class="news-search">
-                    <input type="text" placeholder="Buscar por título o tag" aria-label="Buscar noticias" />
-                </div>
-            </div>
-
             @if (!Model.AllItems.Any())
             {
                 <p style="color:#888;padding:2rem 0;text-align:center">
