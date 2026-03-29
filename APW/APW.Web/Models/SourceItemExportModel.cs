@@ -30,6 +30,13 @@ public class NormalizedExportModel
     public string Url { get; set; } = "";
     public string? Author { get; set; }
     public string Language { get; set; } = "es";
+    public CategoryExportModel? Category { get; set; }
+}
+
+public class CategoryExportModel
+{
+    public string Primary { get; set; } = "";
+    public List<string> Secondary { get; set; } = new();
 }
 
 public class AiEnrichmentExportModel

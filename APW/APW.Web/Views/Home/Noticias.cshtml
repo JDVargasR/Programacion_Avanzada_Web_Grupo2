@@ -1,3 +1,4 @@
+@model APW.Web.Models.NoticiasViewModel
 @{
     ViewBag.Title = "Noticias";
 }
@@ -37,11 +38,11 @@
 
     @* ── PANEL DE IA ── *@
     @{
-        var aiSummary = Context.Session.GetString("AiSummary");
-        var aiSentiment = Context.Session.GetString("AiSentiment");
+        var aiSummary     = Context.Session.GetString("AiSummary");
+        var aiSentiment   = Context.Session.GetString("AiSentiment");
         var aiReadingTime = Context.Session.GetString("AiReadingTime");
-        var aiKeywords = Context.Session.GetString("AiKeywords");
-        var aiTitle = Context.Session.GetString("AiTitle");
+        var aiKeywords    = Context.Session.GetString("AiKeywords");
+        var aiTitle       = Context.Session.GetString("AiTitle");
     }
 
     @if (!string.IsNullOrEmpty(aiSummary))
@@ -73,8 +74,8 @@
                         @foreach (var kw in aiKeywords.Split(','))
                         {
                             <span style="display:inline-block;background:white;border:0.5px solid #AFA9EC;
-                                                     border-radius:8px;font-size:12px;padding:3px 10px;
-                                                     margin:3px;color:#534AB7">
+                                         border-radius:8px;font-size:12px;padding:3px 10px;
+                                         margin:3px;color:#534AB7">
                                 @kw.Trim()
                             </span>
                         }
@@ -88,20 +89,20 @@
         <aside class="news-sidebar" aria-label="Resumen de noticias">
             <div class="news-sidebar__title">Resumen</div>
             <div class="news-sideitem">
-                Publicadas
-                <span class="news-sideitem__value">18</span>
+                Importadas
+                <span class="news-sideitem__value">@Model.ImportedItems.Count</span>
             </div>
             <div class="news-sideitem">
-                En revisión
-                <span class="news-sideitem__value">4</span>
+                Fijadas
+                <span class="news-sideitem__value">@Model.PinnedItems.Count</span>
             </div>
             <div class="news-sideitem">
-                Borradores
-                <span class="news-sideitem__value">7</span>
+                En vivo
+                <span class="news-sideitem__value">@Model.LiveItems.Count</span>
             </div>
             <div class="news-sideitem">
-                Destacadas
-                <span class="news-sideitem__value">5</span>
+                Total
+                <span class="news-sideitem__value">@Model.AllItems.Count()</span>
             </div>
         </aside>
 
@@ -119,63 +120,111 @@
                 </div>
             </div>
 
-            <div class="news-grid">
-                <article class="news-card">
-                    <div class="news-card__meta">
-                        <span class="news-tag">Política</span>
-                        <span class="news-date">04 Feb 2026</span>
-                    </div>
-                    <h3>Acuerdo regional impulsa la agenda de infraestructura</h3>
-                    <p class="news-preview">Líderes de la región priorizan proyectos de movilidad y energía con foco en sostenibilidad y alianzas público-privadas.</p>
-                    <div class="news-card__actions">
-                        <a href="/ExportImport/Download/1" class="news-btn news-btn--ghost">Descargar</a>
-                        <button class="news-btn news-btn--ghost" type="button">Editar</button>
-                        <button class="news-btn news-btn--danger" type="button">Eliminar</button>
-                    </div>
-                </article>
+            @if (!Model.AllItems.Any())
+            {
+                <p style="color:#888;padding:2rem 0;text-align:center">
+                    No hay noticias disponibles. Importá un JSON o configurá la API de noticias.
+                </p>
+            }
 
-                <article class="news-card">
-                    <div class="news-card__meta">
-                        <span class="news-tag">Economía</span>
-                        <span class="news-date">03 Feb 2026</span>
-                    </div>
-                    <h3>Mercados reaccionan con optimismo al reporte trimestral</h3>
-                    <p class="news-preview">La bolsa cerró al alza tras la publicación de resultados positivos en sectores clave y señales de estabilidad.</p>
-                    <div class="news-card__actions">
-                        <a href="/ExportImport/Download/2" class="news-btn news-btn--ghost">Descargar</a>
-                        <button class="news-btn news-btn--ghost" type="button">Editar</button>
-                        <button class="news-btn news-btn--danger" type="button">Eliminar</button>
-                    </div>
-                </article>
+            @* ── IMPORTADAS ── *@
+            @if (Model.ImportedItems.Any())
+            {
+                <div style="font-size:12px;font-weight:600;color:#534AB7;margin:1rem 0 0.5rem;text-transform:uppercase;letter-spacing:.05em">
+                    Importadas
+                </div>
+                <div class="news-grid">
+                    @foreach (var item in Model.ImportedItems)
+                    {
+                        <article class="news-card">
+                            <div class="news-card__meta">
+                                <span class="news-tag">@(string.IsNullOrEmpty(item.Category) ? "General" : item.Category)</span>
+                                <span class="news-date">@item.PublishedAt.ToString("dd MMM yyyy")</span>
+                            </div>
+                            <h3>@item.Title</h3>
+                            <p class="news-preview">@item.Summary</p>
+                            <div class="news-card__actions">
+                                @if (item.LocalId.HasValue)
+                                {
+                                    <a href="/ExportImport/Download/@item.LocalId" class="news-btn news-btn--ghost">Descargar</a>
+                                }
+                                <span style="font-size:11px;color:#888;align-self:center">
+                                    📥 @item.SourceName
+                                </span>
+                            </div>
+                        </article>
+                    }
+                </div>
+            }
 
-                <article class="news-card">
-                    <div class="news-card__meta">
-                        <span class="news-tag">Cultura</span>
-                        <span class="news-date">02 Feb 2026</span>
-                    </div>
-                    <h3>Festival de cine local bate récord de asistencia</h3>
-                    <p class="news-preview">La programación independiente y las actividades abiertas al público consolidaron el evento como referente regional.</p>
-                    <div class="news-card__actions">
-                        <a href="/ExportImport/Download/3" class="news-btn news-btn--ghost">Descargar</a>
-                        <button class="news-btn news-btn--ghost" type="button">Editar</button>
-                        <button class="news-btn news-btn--danger" type="button">Eliminar</button>
-                    </div>
-                </article>
+            @* ── FIJADAS ── *@
+            @if (Model.PinnedItems.Any())
+            {
+                <div style="font-size:12px;font-weight:600;color:#534AB7;margin:1.5rem 0 0.5rem;text-transform:uppercase;letter-spacing:.05em">
+                    Fijadas
+                </div>
+                <div class="news-grid">
+                    @foreach (var item in Model.PinnedItems)
+                    {
+                        <article class="news-card">
+                            <div class="news-card__meta">
+                                <span class="news-tag">@(string.IsNullOrEmpty(item.Category) ? "General" : item.Category)</span>
+                                <span class="news-date">@item.PublishedAt.ToString("dd MMM yyyy")</span>
+                            </div>
+                            <h3>@item.Title</h3>
+                            <p class="news-preview">@item.Summary</p>
+                            <div class="news-card__actions">
+                                @if (item.LocalId.HasValue)
+                                {
+                                    <a href="/ExportImport/Download/@item.LocalId" class="news-btn news-btn--ghost">Descargar</a>
+                                }
+                                @if (!string.IsNullOrEmpty(item.Url))
+                                {
+                                    <a href="@item.Url" target="_blank" class="news-btn news-btn--ghost">Ver artículo</a>
+                                }
+                                <span style="font-size:11px;color:#888;align-self:center">📌 Fijado</span>
+                            </div>
+                        </article>
+                    }
+                </div>
+            }
 
-                <article class="news-card">
-                    <div class="news-card__meta">
-                        <span class="news-tag">Deportes</span>
-                        <span class="news-date">01 Feb 2026</span>
-                    </div>
-                    <h3>Nuevo técnico presenta plan de desarrollo juvenil</h3>
-                    <p class="news-preview">El club apuesta por formación y scouting regional con un enfoque integral en rendimiento y salud.</p>
-                    <div class="news-card__actions">
-                        <a href="/ExportImport/Download/4" class="news-btn news-btn--ghost">Descargar</a>
-                        <button class="news-btn news-btn--ghost" type="button">Editar</button>
-                        <button class="news-btn news-btn--danger" type="button">Eliminar</button>
-                    </div>
-                </article>
-            </div>
+            @* ── EN VIVO ── *@
+            @if (Model.LiveItems.Any())
+            {
+                <div style="font-size:12px;font-weight:600;color:#534AB7;margin:1.5rem 0 0.5rem;text-transform:uppercase;letter-spacing:.05em">
+                    En vivo
+                </div>
+                <div class="news-grid">
+                    @foreach (var item in Model.LiveItems)
+                    {
+                        <article class="news-card">
+                            <div class="news-card__meta">
+                                <span class="news-tag">@(string.IsNullOrEmpty(item.Category) ? item.SourceName : item.Category)</span>
+                                <span class="news-date">@item.PublishedAt.ToString("dd MMM yyyy")</span>
+                            </div>
+                            <h3>@item.Title</h3>
+                            <p class="news-preview">@item.Summary</p>
+                            <div class="news-card__actions">
+                                @if (!string.IsNullOrEmpty(item.Url))
+                                {
+                                    <a href="@item.Url" target="_blank" class="news-btn news-btn--ghost">Ver artículo</a>
+                                }
+                                <form method="post" action="/Home/Pin" style="display:contents">
+                                    <input type="hidden" name="externalId"  value="@item.ExternalId" />
+                                    <input type="hidden" name="title"       value="@item.Title" />
+                                    <input type="hidden" name="summary"     value="@item.Summary" />
+                                    <input type="hidden" name="url"         value="@item.Url" />
+                                    <input type="hidden" name="author"      value="@item.Author" />
+                                    <input type="hidden" name="sourceName"  value="@item.SourceName" />
+                                    <button type="submit" class="news-btn news-btn--primary">Fijar</button>
+                                </form>
+                            </div>
+                        </article>
+                    }
+                </div>
+            }
+
         </div>
     </section>
 </main>

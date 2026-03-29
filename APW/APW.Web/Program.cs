@@ -29,6 +29,9 @@ builder.Services.AddHttpClient<IExportImportService, ExportImportService>();
 // Servicio de IA
 builder.Services.AddHttpClient<IAiEnrichmentService, AiEnrichmentService>();
 
+// Servicio de noticias externas
+builder.Services.AddHttpClient<INewsService, NewsService>();
+
 var app = builder.Build();
 
 if (!app.Environment.IsDevelopment())

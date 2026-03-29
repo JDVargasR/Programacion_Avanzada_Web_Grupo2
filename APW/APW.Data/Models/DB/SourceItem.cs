@@ -13,5 +13,13 @@ public partial class SourceItem
 
     public DateTime CreatedAt { get; set; }
 
+    public string? Title { get; set; }
+
+    public string? ExternalId { get; set; }
+
+    public bool IsPinned { get; set; }
+
+    public string? Category { get; set; }
+
     public virtual Source Source { get; set; } = null!;
 }
