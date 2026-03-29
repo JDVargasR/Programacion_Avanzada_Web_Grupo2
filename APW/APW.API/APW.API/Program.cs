@@ -1,3 +1,4 @@
+using APW.Architecture.Services;
 using APW.Data.Models.DB;
 using Microsoft.EntityFrameworkCore;
 
@@ -7,7 +8,6 @@ var builder = WebApplication.CreateBuilder(args);
 // Services
 // ---------------------------
 builder.Services.AddControllers();
-
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -15,7 +15,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<ProyectoWebGrupo2Context>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// CORS (Con esta cosa APW.Web puede usar el API)
+// CORS 
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowWeb", policy =>
@@ -26,6 +26,9 @@ builder.Services.AddCors(options =>
             .AllowAnyMethod();
     });
 });
+
+// Servicio de IA
+builder.Services.AddHttpClient<IAiEnrichmentService, AiEnrichmentService>();
 
 var app = builder.Build();
 
@@ -41,7 +44,5 @@ app.UseHttpsRedirection();
 app.UseCors("AllowWeb");
 
 app.UseAuthorization();
-
 app.MapControllers();
-
 app.Run();

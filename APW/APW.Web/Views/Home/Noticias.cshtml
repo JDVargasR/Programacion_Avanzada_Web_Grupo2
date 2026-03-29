@@ -18,6 +18,72 @@
         </div>
     </section>
 
+    @* ── ANÁLISIS CON IA ── *@
+    <section class="lp-container" style="margin-bottom:1.5rem">
+        <div style="border:1px dashed #AFA9EC;border-radius:12px;padding:1.5rem;background:#EEEDFE;">
+            <h3 style="margin:0 0 6px;color:#3C3489;font-size:16px;font-weight:500">
+                Analizá una noticia con IA
+            </h3>
+            <p style="margin:0 0 12px;font-size:13px;color:#534AB7">
+                Subí una noticia y la IA identifica el género, y te crea un resumen automático.
+            </p>
+            <form method="post" action="/ExportImport/Upload" enctype="multipart/form-data"
+                  style="display:flex;gap:10px;align-items:center;flex-wrap:wrap">
+                <input type="file" name="file" accept=".json" style="font-size:13px" />
+                <button type="submit" class="news-btn news-btn--primary">Analizar noticia</button>
+            </form>
+        </div>
+    </section>
+
+    @* ── PANEL DE IA ── *@
+    @{
+        var aiSummary = Context.Session.GetString("AiSummary");
+        var aiSentiment = Context.Session.GetString("AiSentiment");
+        var aiReadingTime = Context.Session.GetString("AiReadingTime");
+        var aiKeywords = Context.Session.GetString("AiKeywords");
+        var aiTitle = Context.Session.GetString("AiTitle");
+    }
+
+    @if (!string.IsNullOrEmpty(aiSummary))
+    {
+        <section class="lp-container" style="margin-bottom:1.5rem">
+            <div style="border:0.5px solid #AFA9EC;border-radius:12px;padding:1.5rem;background:#EEEDFE;">
+                <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px">
+                    <div style="width:8px;height:8px;border-radius:50%;background:#534AB7;flex-shrink:0"></div>
+                    <span style="font-size:14px;font-weight:500;color:#534AB7">
+                        Análisis generado por IA — Claude Haiku
+                    </span>
+                </div>
+                @if (!string.IsNullOrEmpty(aiTitle))
+                {
+                    <p style="font-size:15px;font-weight:500;color:#26215C;margin:0 0 8px">
+                        @aiTitle
+                    </p>
+                }
+                <p style="font-size:14px;color:#26215C;line-height:1.7;margin:0 0 12px">
+                    @aiSummary
+                </p>
+                <div style="display:flex;gap:20px;font-size:13px;color:#3C3489;margin-bottom:10px">
+                    <span>Sentimiento: <strong>@aiSentiment</strong></span>
+                    <span>Lectura estimada: <strong>@aiReadingTime min</strong></span>
+                </div>
+                @if (!string.IsNullOrEmpty(aiKeywords))
+                {
+                    <div>
+                        @foreach (var kw in aiKeywords.Split(','))
+                        {
+                            <span style="display:inline-block;background:white;border:0.5px solid #AFA9EC;
+                                                     border-radius:8px;font-size:12px;padding:3px 10px;
+                                                     margin:3px;color:#534AB7">
+                                @kw.Trim()
+                            </span>
+                        }
+                    </div>
+                }
+            </div>
+        </section>
+    }
+
     <section class="news-shell lp-container">
         <aside class="news-sidebar" aria-label="Resumen de noticias">
             <div class="news-sidebar__title">Resumen</div>
@@ -62,6 +128,7 @@
                     <h3>Acuerdo regional impulsa la agenda de infraestructura</h3>
                     <p class="news-preview">Líderes de la región priorizan proyectos de movilidad y energía con foco en sostenibilidad y alianzas público-privadas.</p>
                     <div class="news-card__actions">
+                        <a href="/ExportImport/Download/1" class="news-btn news-btn--ghost">Descargar</a>
                         <button class="news-btn news-btn--ghost" type="button">Editar</button>
                         <button class="news-btn news-btn--danger" type="button">Eliminar</button>
                     </div>
@@ -75,6 +142,7 @@
                     <h3>Mercados reaccionan con optimismo al reporte trimestral</h3>
                     <p class="news-preview">La bolsa cerró al alza tras la publicación de resultados positivos en sectores clave y señales de estabilidad.</p>
                     <div class="news-card__actions">
+                        <a href="/ExportImport/Download/2" class="news-btn news-btn--ghost">Descargar</a>
                         <button class="news-btn news-btn--ghost" type="button">Editar</button>
                         <button class="news-btn news-btn--danger" type="button">Eliminar</button>
                     </div>
@@ -88,6 +156,7 @@
                     <h3>Festival de cine local bate récord de asistencia</h3>
                     <p class="news-preview">La programación independiente y las actividades abiertas al público consolidaron el evento como referente regional.</p>
                     <div class="news-card__actions">
+                        <a href="/ExportImport/Download/3" class="news-btn news-btn--ghost">Descargar</a>
                         <button class="news-btn news-btn--ghost" type="button">Editar</button>
                         <button class="news-btn news-btn--danger" type="button">Eliminar</button>
                     </div>
@@ -101,6 +170,7 @@
                     <h3>Nuevo técnico presenta plan de desarrollo juvenil</h3>
                     <p class="news-preview">El club apuesta por formación y scouting regional con un enfoque integral en rendimiento y salud.</p>
                     <div class="news-card__actions">
+                        <a href="/ExportImport/Download/4" class="news-btn news-btn--ghost">Descargar</a>
                         <button class="news-btn news-btn--ghost" type="button">Editar</button>
                         <button class="news-btn news-btn--danger" type="button">Eliminar</button>
                     </div>
