@@ -13,24 +13,36 @@ public class NewsService : INewsService
     private readonly HttpClient _http;
     private readonly string _apiKey;
     private readonly string _baseUrl;
+    private readonly ILogger<NewsService> _logger;
 
-    public NewsService(HttpClient http, IConfiguration config)
+    public NewsService(HttpClient http, IConfiguration config, ILogger<NewsService> logger)
     {
         _http = http;
         _apiKey = config["NewsApi:ApiKey"] ?? "";
         _baseUrl = config["NewsApi:BaseUrl"] ?? "https://newsapi.org/v2";
+        _logger = logger;
     }
 
     public async Task<List<NoticiaItemViewModel>> GetLatestAsync()
     {
         if (string.IsNullOrWhiteSpace(_apiKey))
+        {
+            _logger.LogWarning("NewsApi:ApiKey no configurado.");
             return new();
+        }
 
         try
         {
-            var url = $"{_baseUrl}/top-headlines?language=es&pageSize=20&apiKey={_apiKey}";
-            var response = await _http.GetAsync(url);
-            if (!response.IsSuccessStatusCode) return new();
+            var url = $"{_baseUrl}/top-headlines?country=us&pageSize=20&apiKey={_apiKey}";
+            var request = new HttpRequestMessage(HttpMethod.Get, url);
+            request.Headers.Add("User-Agent", "APW-Grupo2/1.0");
+            var response = await _http.SendAsync(request);
+            if (!response.IsSuccessStatusCode)
+            {
+                var body = await response.Content.ReadAsStringAsync();
+                _logger.LogWarning("NewsAPI respondió {status}: {body}", (int)response.StatusCode, body);
+                return new();
+            }
 
             var doc = await response.Content.ReadFromJsonAsync<JsonDocument>();
             if (doc is null) return new();
@@ -71,8 +83,9 @@ public class NewsService : INewsService
             }
             return result;
         }
-        catch
+        catch (Exception ex)
         {
+            _logger.LogError(ex, "Error al llamar a NewsAPI.");
             return new();
         }
     }
