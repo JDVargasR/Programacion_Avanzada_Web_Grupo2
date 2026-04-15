@@ -27,7 +27,7 @@
     </div>
 
     <div class="auth__panel">
-        <form class="form" method="post" action="@Url.Action("Login","Authentication")">
+        <form class="form js-auth-form" method="post" action="@Url.Action("Login","Authentication")" novalidate>
             <div class="form__top">
                 <h1>Iniciar sesión</h1>
                 <p>Ingresá con tu correo y contraseña para acceder a Grupo 2 Noticias.</p>
@@ -42,6 +42,7 @@
                            type="email"
                            placeholder="Correo@Email.com"
                            autocomplete="email"
+                           data-label="Correo"
                            required />
                 </div>
                 <span class="error" style="display:none;">Mensaje de error</span>
@@ -56,6 +57,7 @@
                            type="password"
                            placeholder="••••••••"
                            autocomplete="current-password"
+                           data-label="Contraseña"
                            required />
                 </div>
                 <span class="error" style="display:none;">Mensaje de error</span>

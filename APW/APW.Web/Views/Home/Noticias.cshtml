@@ -1,6 +1,7 @@
 @model APW.Web.Models.NoticiasViewModel
 @{
     ViewBag.Title = "Noticias";
+    var esAdmin = Context.Session.GetInt32("RolId") == 1;
 }
 
 <main class="news-page">
@@ -14,22 +15,25 @@
         </div>
     </section>
 
-    @* ── ANÁLISIS CON IA ── *@
-    <section class="lp-container" style="margin-bottom:1.5rem">
-        <div style="border:1px dashed #AFA9EC;border-radius:12px;padding:1.5rem;background:#EEEDFE;">
-            <h3 style="margin:0 0 6px;color:#3C3489;font-size:16px;font-weight:500">
-                Analizá una noticia con IA
-            </h3>
-            <p style="margin:0 0 12px;font-size:13px;color:#534AB7">
-                Subí una noticia y la IA identifica el género, y te crea un resumen automático.
-            </p>
-            <form method="post" action="/ExportImport/Upload" enctype="multipart/form-data"
-                  style="display:flex;gap:10px;align-items:center;flex-wrap:wrap">
-                <input type="file" name="file" accept=".json" style="font-size:13px" />
-                <button type="submit" class="news-btn news-btn--primary">Analizar noticia</button>
-            </form>
-        </div>
-    </section>
+    @if (esAdmin)
+    {
+        @* ── ANÁLISIS CON IA ── *@
+        <section class="lp-container news-ai-upload-wrap">
+            <div class="news-ai-upload">
+                <h3 class="news-ai-upload__title">
+                    Analizá una noticia con IA
+                </h3>
+                <p class="news-ai-upload__text">
+                    Subí una noticia y la IA identifica el género, y te crea un resumen automático.
+                </p>
+                <form method="post" action="/ExportImport/Upload" enctype="multipart/form-data"
+                      class="news-ai-upload__form">
+                    <input type="file" name="file" accept=".json" class="news-ai-upload__input" />
+                    <button type="submit" class="news-btn news-btn--primary">Analizar noticia</button>
+                </form>
+            </div>
+        </section>
+    }
 
     @* ── PANEL DE IA ── *@
     @{
@@ -40,37 +44,35 @@
         var aiTitle       = Context.Session.GetString("AiTitle");
     }
 
-    @if (!string.IsNullOrEmpty(aiSummary))
+    @if (esAdmin && !string.IsNullOrEmpty(aiSummary))
     {
-        <section class="lp-container" style="margin-bottom:1.5rem">
-            <div style="border:0.5px solid #AFA9EC;border-radius:12px;padding:1.5rem;background:#EEEDFE;">
-                <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px">
-                    <div style="width:8px;height:8px;border-radius:50%;background:#534AB7;flex-shrink:0"></div>
-                    <span style="font-size:14px;font-weight:500;color:#534AB7">
+        <section class="lp-container news-ai-result-wrap">
+            <div class="news-ai-result">
+                <div class="news-ai-result__header">
+                    <div class="news-ai-result__dot"></div>
+                    <span class="news-ai-result__label">
                         Análisis generado por IA — Claude Haiku
                     </span>
                 </div>
                 @if (!string.IsNullOrEmpty(aiTitle))
                 {
-                    <p style="font-size:15px;font-weight:500;color:#26215C;margin:0 0 8px">
+                    <p class="news-ai-result__title">
                         @aiTitle
                     </p>
                 }
-                <p style="font-size:14px;color:#26215C;line-height:1.7;margin:0 0 12px">
+                <p class="news-ai-result__summary">
                     @aiSummary
                 </p>
-                <div style="display:flex;gap:20px;font-size:13px;color:#3C3489;margin-bottom:10px">
+                <div class="news-ai-result__meta">
                     <span>Sentimiento: <strong>@aiSentiment</strong></span>
                     <span>Lectura estimada: <strong>@aiReadingTime min</strong></span>
                 </div>
                 @if (!string.IsNullOrEmpty(aiKeywords))
                 {
-                    <div>
+                    <div class="news-ai-result__keywords">
                         @foreach (var kw in aiKeywords.Split(','))
                         {
-                            <span style="display:inline-block;background:white;border:0.5px solid #AFA9EC;
-                                         border-radius:8px;font-size:12px;padding:3px 10px;
-                                         margin:3px;color:#534AB7">
+                            <span class="news-ai-result__keyword">
                                 @kw.Trim()
                             </span>
                         }
@@ -126,7 +128,7 @@
                             <h3>@item.Title</h3>
                             <p class="news-preview">@item.Summary</p>
                             <div class="news-card__actions">
-                                @if (item.LocalId.HasValue)
+                                @if (esAdmin && item.LocalId.HasValue)
                                 {
                                     <a href="/ExportImport/Download/@item.LocalId" class="news-btn news-btn--ghost">Descargar</a>
                                 }
@@ -156,7 +158,7 @@
                             <h3>@item.Title</h3>
                             <p class="news-preview">@item.Summary</p>
                             <div class="news-card__actions">
-                                @if (item.LocalId.HasValue)
+                                @if (esAdmin && item.LocalId.HasValue)
                                 {
                                     <a href="/ExportImport/Download/@item.LocalId" class="news-btn news-btn--ghost">Descargar</a>
                                 }
@@ -192,15 +194,18 @@
                                 {
                                     <a href="@item.Url" target="_blank" class="news-btn news-btn--ghost">Ver artículo</a>
                                 }
-                                <form method="post" action="/Home/Pin" style="display:contents">
-                                    <input type="hidden" name="externalId"  value="@item.ExternalId" />
-                                    <input type="hidden" name="title"       value="@item.Title" />
-                                    <input type="hidden" name="summary"     value="@item.Summary" />
-                                    <input type="hidden" name="url"         value="@item.Url" />
-                                    <input type="hidden" name="author"      value="@item.Author" />
-                                    <input type="hidden" name="sourceName"  value="@item.SourceName" />
-                                    <button type="submit" class="news-btn news-btn--primary">Fijar</button>
-                                </form>
+                                @if (esAdmin)
+                                {
+                                    <form method="post" action="/Home/Pin" style="display:contents">
+                                        <input type="hidden" name="externalId"  value="@item.ExternalId" />
+                                        <input type="hidden" name="title"       value="@item.Title" />
+                                        <input type="hidden" name="summary"     value="@item.Summary" />
+                                        <input type="hidden" name="url"         value="@item.Url" />
+                                        <input type="hidden" name="author"      value="@item.Author" />
+                                        <input type="hidden" name="sourceName"  value="@item.SourceName" />
+                                        <button type="submit" class="news-btn news-btn--primary">Fijar</button>
+                                    </form>
+                                }
                             </div>
                         </article>
                     }

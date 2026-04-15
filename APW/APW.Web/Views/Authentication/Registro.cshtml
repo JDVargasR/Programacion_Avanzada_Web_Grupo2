@@ -22,7 +22,7 @@
     </div>
 
     <div class="auth__panel">
-        <form class="form" method="post" action="@Url.Action("Registro","Authentication")">
+        <form class="form js-auth-form" method="post" action="@Url.Action("Registro","Authentication")" novalidate>
             <div class="form__top">
                 <h1>Crear cuenta</h1>
                 <p>Ingresá tus datos para registrarte en Grupo 2 Noticias.</p>
@@ -37,6 +37,7 @@
                            type="text"
                            placeholder="Su nombre"
                            autocomplete="name"
+                           data-label="Nombre"
                            required />
                 </div>
                 <span class="error" style="display:none;">Mensaje de error</span>
@@ -51,6 +52,7 @@
                            type="email"
                            placeholder="Correo@Email.com"
                            autocomplete="email"
+                           data-label="Correo"
                            required />
                 </div>
                 <span class="error" style="display:none;">Mensaje de error</span>
@@ -65,6 +67,7 @@
                            type="password"
                            placeholder="••••••••"
                            autocomplete="new-password"
+                           data-label="Contraseña"
                            required />
                 </div>
                 <span class="error" style="display:none;">Mensaje de error</span>

@@ -156,6 +156,12 @@ body {
     transition: border-color .15s ease, box-shadow .15s ease, background .15s ease;
 }
 
+.input.is-invalid {
+    border-color: rgba(201,75,75,.75);
+    box-shadow: 0 0 0 4px rgba(201,75,75,.14);
+    background: rgba(201,75,75,.04);
+}
+
     .input:focus {
         border-color: rgba(30,90,255,.70);
         box-shadow: 0 0 0 4px var(--input-focus);

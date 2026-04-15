@@ -1,6 +1,5 @@
 ﻿@{
     ViewBag.Title = "Inicio - Grupo 2 Noticias";
-    Layout = "~/Views/Shared/_LayoutCliente.cshtml";
 }
 
 @section styles {
@@ -23,8 +22,8 @@
                     Bienvenido a <b>Grupo 2 Noticias</b>. Usá el menú superior para explorar secciones y seguir los temas que más te interesan.
                 </p>
 
-                <a class="hs-btn hs-btn--primary" href="#historia" style="margin-top:14px; display:inline-flex;">
-                    Ver nuestra sección "Historia"
+                <a class="hs-btn hs-btn--primary" href="@Url.Action("Noticias", "Home")" style="margin-top:14px; display:inline-flex;">
+                    Ver nuestra sección "Noticias"
                 </a>
             </div>
 

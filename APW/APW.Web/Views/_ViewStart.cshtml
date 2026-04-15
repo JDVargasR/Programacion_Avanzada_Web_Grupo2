@@ -1,3 +1,6 @@
 ﻿@{
-    Layout = "~/Views/Shared/_LayoutCliente.cshtml";
+    var rolId = Context.Session.GetInt32("RolId");
+    Layout = rolId == 1
+        ? "~/Views/Shared/_LayoutAdministrador.cshtml"
+        : "~/Views/Shared/_LayoutCliente.cshtml";
 }
